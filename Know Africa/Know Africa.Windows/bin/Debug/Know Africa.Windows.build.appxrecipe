@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAYME</Machine>
+    <WindowsUser>James</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5b60ff16-925f-457e-9b8a-9d9ff619222f</PackageIdentityName>
+    <IntermediateOutputPath>A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\Know Africa.Windows.exe">
+      <PackagePath>Know Africa.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\algeria.png">
+      <PackagePath>Assets\algeria.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\angola.png">
+      <PackagePath>Assets\angola.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\backAfrica.PNG">
+      <PackagePath>Assets\backAfrica.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\benin.png">
+      <PackagePath>Assets\benin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\botswana.png">
+      <PackagePath>Assets\botswana.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\bukina_faso.png">
+      <PackagePath>Assets\bukina_faso.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\burundi.png">
+      <PackagePath>Assets\burundi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Cameroon.png">
+      <PackagePath>Assets\Cameroon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Cape_Verde.png">
+      <PackagePath>Assets\Cape_Verde.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Central_African_Republic.png">
+      <PackagePath>Assets\Central_African_Republic.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Chad.png">
+      <PackagePath>Assets\Chad.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Comoros.png">
+      <PackagePath>Assets\Comoros.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Congo.png">
+      <PackagePath>Assets\Congo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\IvoryCoast.png">
+      <PackagePath>Assets\IvoryCoast.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Djibouti.png">
+      <PackagePath>Assets\Djibouti.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Egypt.png">
+      <PackagePath>Assets\Egypt.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Equatorial_Guinea.png">
+      <PackagePath>Assets\Equatorial_Guinea.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Eritrea.png">
+      <PackagePath>Assets\Eritrea.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Ethiopia.png">
+      <PackagePath>Assets\Ethiopia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Gabon.png">
+      <PackagePath>Assets\Gabon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Gambia.png">
+      <PackagePath>Assets\Gambia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Ghana.png">
+      <PackagePath>Assets\Ghana.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Guinea-Bissau.png">
+      <PackagePath>Assets\Guinea-Bissau.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Guinea.png">
+      <PackagePath>Assets\Guinea.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Kenya.png">
+      <PackagePath>Assets\Kenya.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Lesotho.png">
+      <PackagePath>Assets\Lesotho.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Liberia.png">
+      <PackagePath>Assets\Liberia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Libya.png">
+      <PackagePath>Assets\Libya.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Madagascar.png">
+      <PackagePath>Assets\Madagascar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Malawi.png">
+      <PackagePath>Assets\Malawi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Mali.png">
+      <PackagePath>Assets\Mali.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Mauritania.png">
+      <PackagePath>Assets\Mauritania.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Mauritius.png">
+      <PackagePath>Assets\Mauritius.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Morocco.png">
+      <PackagePath>Assets\Morocco.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Mozambique.png">
+      <PackagePath>Assets\Mozambique.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Namibia.png">
+      <PackagePath>Assets\Namibia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Niger.png">
+      <PackagePath>Assets\Niger.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Nigeria.png">
+      <PackagePath>Assets\Nigeria.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Rwanda.png">
+      <PackagePath>Assets\Rwanda.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Senegal.png">
+      <PackagePath>Assets\Senegal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Seychelles.png">
+      <PackagePath>Assets\Seychelles.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Sierra_Leone.png">
+      <PackagePath>Assets\Sierra_Leone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Somalia.png">
+      <PackagePath>Assets\Somalia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\South_Africa.png">
+      <PackagePath>Assets\South_Africa.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\South_Sudan.png">
+      <PackagePath>Assets\South_Sudan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Sudan.png">
+      <PackagePath>Assets\Sudan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Swaziland.png">
+      <PackagePath>Assets\Swaziland.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Tanzania.png">
+      <PackagePath>Assets\Tanzania.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Togo.png">
+      <PackagePath>Assets\Togo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Tunisia.png">
+      <PackagePath>Assets\Tunisia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Uganda.png">
+      <PackagePath>Assets\Uganda.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\western_sahara.png">
+      <PackagePath>Assets\western_sahara.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Zambia.png">
+      <PackagePath>Assets\Zambia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Assets\Zimbabwe.png">
+      <PackagePath>Assets\Zimbabwe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Images\aboutAfrica.png">
+      <PackagePath>Images\aboutAfrica.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Images\backAfr.png">
+      <PackagePath>Images\backAfr.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Images\Cover2.png">
+      <PackagePath>Images\Cover2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Images\greenCover.png">
+      <PackagePath>Images\greenCover.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Images\guessFlags.png">
+      <PackagePath>Images\guessFlags.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Images\play.png">
+      <PackagePath>Images\play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Images\quit.png">
+      <PackagePath>Images\quit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\Images\score.png">
+      <PackagePath>Images\score.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\Play.xbf">
+      <PackagePath>Play.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\Quit.xbf">
+      <PackagePath>Quit.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\Know Africa.Windows.xr.xml">
+      <PackagePath>Know Africa.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

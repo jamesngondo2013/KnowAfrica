@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Know_Africa.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Know_Africa"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image Source="Images/greenCover.png" Margin="-44,0,-39,0" />
+        <Image Name="play" Source="Images/play.png" Margin="978,630,10,0" Tapped="play_Tapped_1" />
+        <Image Name="about" Source="Images/aboutAfrica.png" Margin="64,638,963,10" Tapped="about_Tapped" />
+
+        <Grid x:Name="Snap" Visibility="Collapsed"  >
+            <Image Stretch="Fill" Source="Assets/africaBackgroundSafari.png" />
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="Know_Africa.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Know_Africa"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot" Background="Black" Margin="0,0.333,0,-0.333">
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Margin="12,17,0,751"></StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Margin="-10,0,10,0" >
+
+
+            <Button Content="Play" HorizontalAlignment="Left" Margin="161,352,0,0" VerticalAlignment="Top" x:Name="play" Tapped="play_Tapped"/>
+            <Image x:Name="imgFlag" HorizontalAlignment="Left" Height="176" Margin="70,45,0,0" VerticalAlignment="Top" Width="284"/>
+
+
+        </Grid>
+    </Grid>
+</Page>

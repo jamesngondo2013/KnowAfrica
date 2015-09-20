@@ -1,0 +1,47 @@
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\App.xbf
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\MainPage.xbf
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\Know Africa.Windows.xr.xml
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\Know Africa.Windows.exe
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\Know Africa.Windows.pdb
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\resources.pri
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\AppxManifest.xml
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\Know Africa.Windows.build.appxrecipe
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\App.g.i.cs
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\App.g.cs
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\MainPage.g.i.cs
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\MainPage.g.cs
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\XamlTypeInfo.g.cs
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\App.xaml
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\MainPage.xaml
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\App.xbf
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\MainPage.xbf
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\XamlSaveStateFile.xml
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\Know Africa.Windows.exe
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\Know Africa.Windows.pdb
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\priconfig.xml
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\priconfig.xml.intermediate
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\layout.resfiles
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\layout.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\resources.resfiles
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\resources.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\pri.resfiles
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\pri.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\qualifiers.txt
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\qualifiers.txt.intermediate
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\ProjectArchitectures.txt
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\Play.g.i.cs
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\Play.g.cs
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\Quit.g.i.cs
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\Quit.g.cs
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\Quit.xaml
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\Quit.xbf
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\Play.xaml
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\Play.xbf
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\Play.xbf
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\Quit.xbf
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\About.g.i.cs
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\About.g.cs
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\About.xaml
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\obj\Debug\About.xbf
+A:\GMIT HACAKTHON APPS\Know Africa\Know Africa\Know Africa\Know Africa.Windows\bin\Debug\About.xbf

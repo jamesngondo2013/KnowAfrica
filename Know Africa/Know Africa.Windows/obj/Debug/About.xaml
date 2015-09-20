@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="Know_Africa.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Know_Africa"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="291*"/>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="332*"/>
+        </Grid.ColumnDefinitions>
+        <Image Source="Images/Cover2.png" Margin="-44,-30,-45,0" Grid.ColumnSpan="3" />
+        <Image x:ConnectionId='1' Name="back" Source="Images/backAfr.png" Margin="392,669,41,36"                      Grid.Column="2" />
+        <Image Name="about2" Source="Images/aboutAfrica.png" Margin="437,0,456,675" Grid.ColumnSpan="3" />
+        <TextBlock Name="about" VerticalAlignment="Top" Height="488" Text="" Foreground="Black" FontFamily="Comic Sans MS" TextAlignment="Left" FontSize="24" FontWeight="Bold" Margin="10,117,10,0" Grid.ColumnSpan="3"/>
+    </Grid>
+</Page>
+

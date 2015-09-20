@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="Know_Africa.Play"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Know_Africa"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Button x:Name="btnOne" Content="" Height="85" HorizontalAlignment="Left" Margin="-4,457,0,0" VerticalAlignment="Top" Width="206" Foreground="#FF030303" BorderBrush="Black" Background="#FFC5BCAA" FontFamily="Courier New" FontWeight="SemiBold" Tapped="btnOne_Tapped" />
+        <Button  x:Name="btnTwo" Content="" Height="82" HorizontalAlignment="Left" Margin="-5,542,0,0" VerticalAlignment="Top" Width="204" Foreground="#FF030303" BorderBrush="Black" Background="#FFC5BCAA" FontFamily="Courier New" FontWeight="SemiBold" RenderTransformOrigin="0.5,0.5"  Tapped="btnTwo_Tapped" />
+        <Button  x:Name="btnThree" Content="" Height="85" HorizontalAlignment="Left" Margin="207,457,0,0" VerticalAlignment="Top" Width="193" Foreground="#FF030303" BorderBrush="Black" Background="#FFC5BCAA" FontFamily="Courier New" FontWeight="SemiBold" Tapped="btnThree_Tapped" />
+        <Button  x:Name="btnFour" Content="" Height="86" HorizontalAlignment="Left" Margin="206,538,0,0" VerticalAlignment="Top" Width="194" Foreground="#FF030303" BorderBrush="Black" Background="#FFC5BCAA" FontFamily="Courier New" FontWeight="SemiBold" RenderTransformOrigin="0.5,0.5" Tapped="btnFour_Tapped" />
+
+
+        <TextBlock Height="53" HorizontalAlignment="Left" Margin="0,56,0,0" Name="title" Text="Guess the Flag" VerticalAlignment="Top" Width="409" FontSize="45" TextAlignment="Center" FontFamily="Courier New" Foreground="Black" FontWeight="SemiBold" />
+        <TextBlock Height="30" HorizontalAlignment="Left" Margin="29,411,0,0" Name="scoreBlock" Text="Score: 0" VerticalAlignment="Top" FontFamily="Courier New" Foreground="Black" FontSize="30" FontWeight="SemiBold" />
+        <TextBlock Height="30" HorizontalAlignment="Left" Margin="307,485,0,0" Name="timer" Text="" VerticalAlignment="Top" FontFamily="Courier New" Foreground="Black" FontSize="30" FontWeight="SemiBold" />
+        <TextBlock Height="30" HorizontalAlignment="Left" Margin="178,402,0,0" Name="correctOrWrong" Text="" VerticalAlignment="Top" FontFamily="Courier New" Foreground="Yellow" TextAlignment="Center" FontSize="26" FontWeight="SemiBold" />
+        <TextBlock FontFamily="Courier New" FontSize="26" FontWeight="SemiBold" Foreground="Yellow" Height="30" HorizontalAlignment="Left" Margin="216,436,0,0" Name="pointsBlock" Text="" TextAlignment="Center" VerticalAlignment="Top" />
+        <Image Height="222" HorizontalAlignment="Left" Name="imgFlag" Stretch="Fill" VerticalAlignment="Top" Width="276" Margin="65,157,0,0"/>
+
+    </Grid>
+</Page>
